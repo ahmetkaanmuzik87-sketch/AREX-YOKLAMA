@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Atatürk Ortaokulu Yoklama Sistemi",
+      "hasCanvas": false,
+      "bodyTextLen": 387,
+      "bodyTextHash": "9b28dbf96b757b29e4b681983b18955161895f232eba1e74d2832cd6c82fa26d",
+      "bodyTextPrefix": "T.C. MİLLÎ EĞİTİM BAKANLIĞI ARTVİN · ARHAVİ 2026–2027 ÖĞRETİM YI",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Atatürk Ortaokulu Yoklama Sistemi",
+      "hasCanvas": false,
+      "bodyTextLen": 387,
+      "bodyTextHash": "9b28dbf96b757b29e4b681983b18955161895f232eba1e74d2832cd6c82fa26d",
+      "bodyTextPrefix": "T.C. MİLLÎ EĞİTİM BAKANLIĞI ARTVİN · ARHAVİ 2026–2027 ÖĞRETİM YI",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
