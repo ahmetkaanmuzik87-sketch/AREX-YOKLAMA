@@ -1,0 +1,1 @@
+import{c as e,t}from"./createLucideIcon-C20vfABw.js";import{n}from"./crest-DGjdSG3G.js";var r=t(`check`,[[`path`,{d:`M20 6 9 17l-5-5`,key:`1gmf2c`}]]),i=e();function a({className:e,...t}){return(0,i.jsx)(`label`,{className:n(`text-xs font-medium tracking-wide text-fg-muted`,e),...t})}export{r as n,a as t};
